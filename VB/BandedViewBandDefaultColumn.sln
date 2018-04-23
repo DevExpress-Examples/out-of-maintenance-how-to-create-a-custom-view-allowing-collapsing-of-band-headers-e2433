@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BandedViewBandDefaultColumn", "BandedViewBandDefaultColumn\BandedViewBandDefaultColumn.vbproj", "{AF3EC3E2-AD64-47CB-A380-F15054B585EE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3EC3E2-AD64-47CB-A380-F15054B585EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3EC3E2-AD64-47CB-A380-F15054B585EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3EC3E2-AD64-47CB-A380-F15054B585EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3EC3E2-AD64-47CB-A380-F15054B585EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
